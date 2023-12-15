@@ -9,6 +9,11 @@
 44
 55
 
+delete
+delete
+
+delete
+delete
 3 line
 4 line
 5 line
@@ -19,3 +24,5 @@
 9 line
 
 10 line
+
+commit 1
