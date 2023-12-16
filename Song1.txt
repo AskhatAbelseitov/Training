@@ -1,1 +1,7 @@
 Master text
++
+Feature new lines
+Feature new lines
+Feature new lines
+Feature new lines
+Feature new lines
