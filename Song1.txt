@@ -5,3 +5,7 @@ Feature new lines
 Feature new lines
 Feature new lines
 Feature new lines
+
+Feauture commit
+Feauture commit
+Feauture commit
