@@ -10,6 +10,7 @@ Feauture commit
 Feauture commit
 Feauture commit
 
+<<<<<<< HEAD
 2 couplet
 
 3 couplet
@@ -21,3 +22,5 @@ Feauture commit
 6 couplet
 
 7 couplet
+=======
+>>>>>>> 1bededd (ggg)
